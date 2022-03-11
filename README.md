@@ -22,5 +22,3 @@ Claw
     
     
     
-    
-![Uploading image.png…]()
