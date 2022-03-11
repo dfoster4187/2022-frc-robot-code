@@ -19,3 +19,8 @@ Hook Arm
 Claw
     a Neo with a 40:1 reduction through a versaplanetary gearbox.
     We have a limit switch mounted but not wired which should give us confirmation when claw has grabbed the bar.
+    
+    
+    
+    
+![Uploading image.png…]()
